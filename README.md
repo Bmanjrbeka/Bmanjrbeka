@@ -62,6 +62,15 @@ I'm Beka from the tech world.<br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react native logo"  />
 </div>
+### My Projects
+<div align="center">
+  <a href="https://github.com/Bmanjrbeka/Project1">
+    <img src="https://via.placeholder.com/200x120.png?text=Project+1" />
+  </a>
+  <a href="https://github.com/Bmanjrbeka/Project2">
+    <img src="https://via.placeholder.com/200x120.png?text=Project+2" />
+  </a>
+</div>
 
 ###
 
