@@ -1,3 +1,5 @@
+> "Code is like humor. When you have to explain it, it’s bad." 😎
+
 
 
 <div align="center">
@@ -17,9 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
-> "Code is like humor. When you have to explain it, it’s bad." 😎
-
-
 ###
 
 <div align="center">
