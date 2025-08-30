@@ -13,11 +13,12 @@
   <a href="https://www.youtube.com/@bmanjr-money" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-> "Code is like humor. When you have to explain it, it’s bad." 😎
   <a href="https://twitter.com/jr_bman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
+> "Code is like humor. When you have to explain it, it’s bad." 😎
+
 
 ###
 
