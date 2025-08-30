@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -11,6 +13,7 @@
   <a href="https://www.youtube.com/@bmanjr-money" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+> "Code is like humor. When you have to explain it, it’s bad." 😎
   <a href="https://twitter.com/jr_bman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
@@ -62,15 +65,6 @@ I'm Beka from the tech world.<br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react native logo"  />
 </div>
-### My Projects
-<div align="center">
-  <a href="https://github.com/Bmanjrbeka/Project1">
-    <img src="https://via.placeholder.com/200x120.png?text=Project+1" />
-  </a>
-  <a href="https://github.com/Bmanjrbeka/Project2">
-    <img src="https://via.placeholder.com/200x120.png?text=Project+2" />
-  </a>
-</div>
 
 ###
 
@@ -81,3 +75,5 @@ I'm Beka from the tech world.<br><br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bmanjrbeka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+ 
