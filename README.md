@@ -1,7 +1,3 @@
-echo "# My GitHub Profile" >> README.md  # Or open in your editor
-git add README.md
-git commit -m "✨ Add GitHub profile README"
-git push origin main
 
 <h1 align="center">Hey 👋What's Up?</h1>
 
